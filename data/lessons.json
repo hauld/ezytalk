@@ -1,0 +1,22 @@
+{ "query": "", "page": 1, "from":1, "to": 100, "data": [
+    {
+      "lessonId": 1,
+      "name": "À la boulangerie",
+      "desc": "A conversation at a bakery",
+      "imageThumb": "http://localhost:8081/img/bakery.jpeg",
+      "rating": 8.7,
+      "runtime": "5 min",
+      "category": "bakery",
+      "releaseDate": "31 August 2022"
+    },
+    {
+      "lessonId": 2,
+      "name": "À la banque",
+      "desc": "A conversation at a bank",
+      "imageThumb": "http://localhost:8081/img/bakery.jpeg",
+      "rating": 8.7,
+      "runtime": "5 min",
+      "category": "bank",
+      "releaseDate": "31 August 2022"
+    }
+  ]}

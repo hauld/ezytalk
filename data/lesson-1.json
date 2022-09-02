@@ -1,0 +1,10 @@
+{"lessonId": 1, "name": "À la boulangerie", "imageUrl":"http://localhost:8081/img/bakery.jpeg", "says": [
+    {"id": 1, "lang": "en-US", "mute": false, "vocal": "teller", "text":"A conversation at the bakery", "audio":"1", "timer": 100, "imageUrl":"http://localhost:8081/img/bakery1.jpeg"},
+    {"id": 2, "lang": "fr-FR", "mute": false, "vocal": "Mathieu", "text":"Bonojour madame?", "audio":"2", "timer": 100, "imageUrl":"http://localhost:8081/img/bakery1.jpeg"},
+    {"id": 3, "lang": "fr-FR", "mute": true, "vocal": "Lea", "text":"Bonjour, monsieur, je voudrais un croissant au beurre, deux pains au chocolat et une brioche au sucre, s'il vous plaît", "audio":"3", "timer": 100, "imageUrl":"http://localhost:8081/img/bakery1.jpeg"},
+    {"id": 4, "lang": "fr-FR", "mute": false, "vocal": "Mathieu", "text":"Oui, madame, et avec ceci?", "audio":"4", "timer": 100, "imageUrl":"http://localhost:8081/img/bakery1.jpeg"},
+    {"id": 5, "lang": "fr-FR", "mute": true, "vocal": "Lea", "text":"Je vais prendre aussi une tarte pour six personnes.", "audio":"5", "timer": 100, "imageUrl":"http://localhost:8081/img/bakery2.jpeg"},
+    {"id": 6, "lang": "fr-FR", "mute": false, "vocal": "Mathieu", "text":"Qu'est-ce que vous préférez, comme tarte? Nous avons des tartes aux pommes, aux fraises, au citron…..", "audio":"6", "timer": 100, "imageUrl":"http://localhost:8081/img/bakery2.jpeg"},
+    {"id": 7, "lang": "fr-FR", "mute": true, "vocal": "Lea", "text":"Une belle tarte aux fraises, c'est très bien.", "audio":"7", "timer": 100, "imageUrl":"http://localhost:8081/img/bakery1.jpeg"},
+    {"id": 8, "lang": "en-US", "mute": false, "vocal": "teller", "text":"You have known how to place order at a bakery. Keep it up!", "audio":"8", "timer": 100, "imageUrl":"http://localhost:8081/img/bakery1.jpeg"}
+    ]}
